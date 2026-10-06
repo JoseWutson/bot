@@ -1,5 +1,5 @@
 TOKEN = "7618960911:AAENrk5_VGZuSpGANkkV2mFK_jBNLHt5myI" # Токен бота
-CRYPTO = "305127:AAu7wF4DQ58l2ivZVL3EzCGNyrNaApgzDaB" # Токен CryptoBot
+CRYPTO = "8815360419:AAG3MdEgtS_n0azmFE0FCz6djssotoUmOe0" # Токен CryptoBot
 ADMINS = [2052105858, 834933723] # ID Админов
 
 # Bot Options
