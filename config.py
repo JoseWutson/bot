@@ -1,12 +1,12 @@
 TOKEN = "643063:AATf2Vat0GdZ6nrDMFWQFZeg9cYTVEWnqPu" # Токен бота
 CRYPTO = "8815360419:AAG3MdEgtS_n0azmFE0FCz6djssotoUmOe0" # Токен CryptoBot
-ADMINS = [8954828216] # ID Админов
+ADMINS = [8954828216, 8791066279] # ID Админов
 
 # Bot Options
 bot_name = "interminal_zn0z"
 bot_logs = "-1004460642545"
 bot_channel_link = "https://t.me/+CTmrDDjL7-FlZjNi"
-bot_admin = "@JoseWutson"
+bot_admin = "@JoseWutson, @samlocking"
 bot_documentation = "https://t.me/interminaldok"
 bot_works = "https://t.me/interminal_works"
 bot_reviews = "https://t.me/interminal_rep"
