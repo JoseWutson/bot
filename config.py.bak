@@ -13,9 +13,9 @@ bot_reviews = "https://t.me/interminal_rep"
 
 
 # Price
-subscribe_1_day = 2
-subscribe_7_days = 7
-subscribe_14_days = 69.99
-subscribe_30_days = 15
-subscribe_365_days = 69.99
+subscribe_1_day = 0.5
+subscribe_7_days = 3
+subscribe_14_days = 5
+subscribe_30_days = 10
+subscribe_365_days = 35
 subscribe_infinity_days = 30
